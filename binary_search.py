@@ -1,4 +1,6 @@
 #!/usr/local/bin/python
+# -*- coding:utf-8 -*-
+
 import random
 
 def bs(arr, v):
